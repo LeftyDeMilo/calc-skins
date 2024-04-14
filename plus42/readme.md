@@ -10,12 +10,17 @@ Even though Plus42 could scale skins of any resolution to fit a specific device 
 
 ### “jobs+calc” Skin for iPhone SE3 Screen
 
-![Main view, vertical](images/scr1-iphone-se3-v-main-view.webp)
-![Main view, horizontal](images/scr4-iphone-se3-h-main-view.webp)
-![‘SHOW’ function view, vertical](images/scr2-iphone-se3-v-shift+show.webp)
-![‘SHOW’ function view, horizontal](images/scr5-iphone-se3-h-shift+show.webp)
-![‘PGM.FCN’ view + Shift activated, vertical](images/scr3-iphone-se3-v-shift+progfn+shift.webp)
-![‘PGM.FCN’ view + Shift activated, horizontal](images/scr6-iphone-se3-h-shift+progfn+shift.webp)
+* Main view
+
+<img width="216" src="images/scr1-iphone-se3-v-main-view.webp"> <img width="427" src="images/scr4-iphone-se3-h-main-view.webp">
+
+* `SHOW` function view
+
+<img width="216" src="images/scr2-iphone-se3-v-shift+show.webp"> <img width="427" src="images/scr5-iphone-se3-h-shift+show.webp">
+
+* `PGM.FCN` view + Shift activated
+
+<img width="216" src="images/scr3-iphone-se3-v-shift+progfn+shift.webp"> <img width="427" src="images/scr6-iphone-se3-h-shift+progfn+shift.webp">
 
 ### Attributions
 
