@@ -10,15 +10,19 @@ Even though Free42 could scale skins of any resolution to fit a specific device 
 
 ### “jobs-calc” Skin for Mi 9T Screen
 
-![Main view](images/scr1-mi-9t-main-view.webp)
-![‘SHOW’ function view](images/scr2-mi-9t-shift+show.webp)
-![‘PGM.FCN’ view + Shift activated](images/scr3-mi-9t-shift+progfn+shift.webp)
+* Main view
+* `SHOW` function view
+* `PGM.FCN` view + Shift activated
+
+<img width="26%" src="images/scr1-mi-9t-main-view.webp"> <img width="26%" src="images/scr2-mi-9t-shift+show.webp"> <img width="26%" src="images/scr3-mi-9t-shift+progfn+shift.webp">
 
 ### “jobs-calc” Skin for iPhone SE3 Screen
 
-![Main view](images/scr4-iphone-se3-main-view.webp)
-![‘SHOW’ function view](images/scr5-iphone-se3-shift+show.webp)
-![‘PGM.FCN’ view + Shift activated](images/scr6-iphone-se3-shift+progfn+shift.webp)
+* Main view
+* `SHOW` function view
+* `PGM.FCN` view + Shift activated
+
+<img width="24%" src="images/scr4-iphone-se3-main-view.webp"> <img width="24%" src="images/scr5-iphone-se3-shift+show.webp"> <img width="24%" src="images/scr6-iphone-se3-shift+progfn+shift.webp">
 
 ### Attributions
 
